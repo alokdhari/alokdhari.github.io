@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>alokdhari.com</title>
-    <link href="https://github.com/alokdhari/alokdhari.github.io/feed.xml" rel="self" />
-    <link href="https://github.com/alokdhari/alokdhari.github.io" />
+    <link href="file:///C:\Users\alokd\OneDrive\Documents\Publii\sites\alokdharicom\preview/feed.xml" rel="self" />
+    <link href="file:///C:\Users\alokd\OneDrive\Documents\Publii\sites\alokdharicom\preview" />
     <updated>2020-10-13T19:07:20+01:00</updated>
     <author>
         <name>Alok Singh</name>
     </author>
-    <id>https://github.com/alokdhari/alokdhari.github.io</id>
+    <id>file:///C:\Users\alokd\OneDrive\Documents\Publii\sites\alokdharicom\preview</id>
 
     <entry>
         <title>Here goes nothing!</title>
         <author>
             <name>Alok Singh</name>
         </author>
-        <link href="https://github.com/alokdhari/alokdhari.github.io/here-goes-nothing.html"/>
-        <id>https://github.com/alokdhari/alokdhari.github.io/here-goes-nothing.html</id>
+        <link href="file:///C:\Users\alokd\OneDrive\Documents\Publii\sites\alokdharicom\preview/here-goes-nothing/index.html"/>
+        <id>file:///C:\Users\alokd\OneDrive\Documents\Publii\sites\alokdharicom\preview/here-goes-nothing/index.html</id>
 
         <updated>2020-10-13T19:07:20+01:00</updated>
             <summary>
