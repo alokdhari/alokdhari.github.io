@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>alokdhari.com</title>
+    <link href="https://github.com/alokdhari/alokdhari.github.io/feed.xml" rel="self" />
+    <link href="https://github.com/alokdhari/alokdhari.github.io" />
+    <updated>2020-10-13T19:07:20+01:00</updated>
+    <author>
+        <name>Alok Singh</name>
+    </author>
+    <id>https://github.com/alokdhari/alokdhari.github.io</id>
+
+    <entry>
+        <title>Here goes nothing!</title>
+        <author>
+            <name>Alok Singh</name>
+        </author>
+        <link href="https://github.com/alokdhari/alokdhari.github.io/here-goes-nothing.html"/>
+        <id>https://github.com/alokdhari/alokdhari.github.io/here-goes-nothing.html</id>
+
+        <updated>2020-10-13T19:07:20+01:00</updated>
+            <summary>
+                <![CDATA[
+                    In hindsight, which always seems to be a beautiful thing.. this has been an overdue dream. Writing blogs or rather finding time to do so. So here we are! Another punt at doing this, when I finally feel as old as blogging itself is probably.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>In hindsight, which always seems to be a beautiful thing.. this has been an overdue dream. Writing blogs or rather finding time to do so. So here we are!<br><br>Another punt at doing this, when I finally feel as old as blogging itself is probably.</p>
+<p>Stay posted and in check. Big things are happening.. my life is about to take a very very exiting turn and hopefully for the better. 😬</p>
+            ]]>
+        </content>
+    </entry>
+</feed>
