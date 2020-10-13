@@ -3,7 +3,7 @@
     <title>alokdhari.com</title>
     <link href="https://alokdhari.github.io/alokdhari.github.io/feed.xml" rel="self" />
     <link href="https://alokdhari.github.io/alokdhari.github.io" />
-    <updated>2020-10-13T21:53:58+01:00</updated>
+    <updated>2020-10-13T22:17:26+01:00</updated>
     <author>
         <name>Alok Singh</name>
     </author>
@@ -16,8 +16,9 @@
         </author>
         <link href="https://alokdhari.github.io/alokdhari.github.io/here-goes-nothing/index.html"/>
         <id>https://alokdhari.github.io/alokdhari.github.io/here-goes-nothing/index.html</id>
+            <category term="Life"/>
 
-        <updated>2020-10-13T21:53:58+01:00</updated>
+        <updated>2020-10-13T22:17:26+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://alokdhari.github.io/alokdhari.github.io/media/posts/1/lonelyChair.jpg" alt="lonely chair" />
