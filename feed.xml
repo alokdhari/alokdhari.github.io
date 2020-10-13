@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>alokdhari.com</title>
-    <link href="https://alokdhari.github.io/feed.xml" rel="self" />
-    <link href="https://alokdhari.github.io" />
+    <link href="https://alokdhari.github.io/alokdhari.github.io/feed.xml" rel="self" />
+    <link href="https://alokdhari.github.io/alokdhari.github.io" />
     <updated>2020-10-13T19:07:20+01:00</updated>
     <author>
         <name>Alok Singh</name>
     </author>
-    <id>https://alokdhari.github.io</id>
+    <id>https://alokdhari.github.io/alokdhari.github.io</id>
 
     <entry>
         <title>Here goes nothing!</title>
         <author>
             <name>Alok Singh</name>
         </author>
-        <link href="https://alokdhari.github.io/here-goes-nothing/index.html"/>
-        <id>https://alokdhari.github.io/here-goes-nothing/index.html</id>
+        <link href="https://alokdhari.github.io/alokdhari.github.io/here-goes-nothing/index.html"/>
+        <id>https://alokdhari.github.io/alokdhari.github.io/here-goes-nothing/index.html</id>
 
         <updated>2020-10-13T19:07:20+01:00</updated>
             <summary>
