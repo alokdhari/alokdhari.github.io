@@ -3,22 +3,22 @@
     <title>alokdhari.com</title>
     <link href="https://alokdhari.com/feed.xml" rel="self" />
     <link href="https://alokdhari.com" />
-    <updated>2021-03-18T02:27:56+00:00</updated>
+    <updated>2021-03-18T02:29:37+00:00</updated>
     <author>
         <name>Alok Singh</name>
     </author>
     <id>https://alokdhari.com</id>
 
     <entry>
-        <title>React App Build on Docker for Kubernetes</title>
+        <title>Building docker image for a REACT App</title>
         <author>
             <name>Alok Singh</name>
         </author>
-        <link href="https://alokdhari.com/react-app-build-on-docket-in-kubernetes/index.html"/>
-        <id>https://alokdhari.com/react-app-build-on-docket-in-kubernetes/index.html</id>
+        <link href="https://alokdhari.com/building-docker-image-for-react-application/index.html"/>
+        <id>https://alokdhari.com/building-docker-image-for-react-application/index.html</id>
             <category term="Technology"/>
 
-        <updated>2021-03-18T02:27:56+00:00</updated>
+        <updated>2021-03-18T02:29:37+00:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://alokdhari.com/media/posts/10/florian-olivo-4hbJ-eymZ1o-unsplash.jpg" alt="" />
