@@ -3,7 +3,7 @@
     <title>alokdhari.com</title>
     <link href="https://alokdhari.com/feed.xml" rel="self" />
     <link href="https://alokdhari.com" />
-    <updated>2021-03-18T02:24:47+00:00</updated>
+    <updated>2021-03-18T02:27:56+00:00</updated>
     <author>
         <name>Alok Singh</name>
     </author>
@@ -16,15 +16,18 @@
         </author>
         <link href="https://alokdhari.com/react-app-build-on-docket-in-kubernetes/index.html"/>
         <id>https://alokdhari.com/react-app-build-on-docket-in-kubernetes/index.html</id>
+            <category term="Technology"/>
 
-        <updated>2021-03-18T02:24:47+00:00</updated>
+        <updated>2021-03-18T02:27:56+00:00</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://alokdhari.com/media/posts/10/florian-olivo-4hbJ-eymZ1o-unsplash.jpg" alt="" />
                     Let me start by sharing my final docker file. The docker file builds a react project and serves it using nginx. It itself is pretty&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <img src="https://alokdhari.com/media/posts/10/florian-olivo-4hbJ-eymZ1o-unsplash.jpg" alt="" />
                 <p>Let me start by sharing my final docker file. The docker file builds a react project and serves it using nginx.</p>
 <p>It itself is pretty descriptive, but if there is anything you don't understand then ping me.</p>
 <div>
