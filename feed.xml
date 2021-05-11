@@ -3,12 +3,44 @@
     <title>alokdhari.com</title>
     <link href="https://alokdhari.com/feed.xml" rel="self" />
     <link href="https://alokdhari.com" />
-    <updated>2021-03-21T20:30:11+00:00</updated>
+    <updated>2021-05-11T23:51:21+01:00</updated>
     <author>
         <name>Alok Singh</name>
     </author>
     <id>https://alokdhari.com</id>
 
+    <entry>
+        <title>My first start-up experience!</title>
+        <author>
+            <name>Alok Singh</name>
+        </author>
+        <link href="https://alokdhari.com/my-first-start-up-experience/index.html"/>
+        <id>https://alokdhari.com/my-first-start-up-experience/index.html</id>
+
+        <updated>2021-05-11T23:51:21+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://alokdhari.com/media/posts/12/hello-i-m-nik-AsRAyHIkOHk-unsplash.jpg" alt="" />
+                    If you read my previous post not so long ago I left my full time job and embarked on a mission to address quite a&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://alokdhari.com/media/posts/12/hello-i-m-nik-AsRAyHIkOHk-unsplash.jpg" alt="" />
+                <figure class="post__image post__image--wide"><img loading="lazy"  src="https://alokdhari.com/media/posts/12/20210511_233825.jpg" sizes="(min-width: 61.3125em) 50vw, 100vw" srcset="https://alokdhari.com/media/posts/12/responsive/20210511_233825-xs.jpg 300w ,https://alokdhari.com/media/posts/12/responsive/20210511_233825-sm.jpg 480w ,https://alokdhari.com/media/posts/12/responsive/20210511_233825-md.jpg 768w"  alt="" width="1142" height="2414"></figure>If you read my <a href="https://alokdhari.com/seeds-and-opportunities/index.html" title="Seeds and opportunitites" target="_blank" rel="noopener noreferrer">previous post</a> not so long ago I left my full time job and embarked on a mission to address quite a huge challenge i.e. to deliver an e-commerce as a service platform that was founded on principles of social responsibility. At this present moment I am not a part of that company anymore and I think it is good decision.</p>
+<p>The big question that looms is what can I pass on? Here a small brief of what you should do if you are in the same position as I was when I wrote that post in October, 2020. </p>
+<p>1. Do the research before you drop everything and go all in if you are not an owner of the new venture.</p>
+<p>I missed to do the research and project planning before I jumped in. Silly, I know! While these are challenging times and I happen to be fortunate enough to be able to find another job, this decision would have left me and my family financially crippled. The company could not afford to pay me the salary I expected and agreed only after a few months, which also meant that I had to loose everything I worked hard for.</p>
+<p>2. Look after your mental and physical well-being</p>
+<p>Before I jumped ship, a lot of my fellows recommended me not to over work and burn out. But that is exactly what happened. I was pushed against deadlines that I agreed without having time to do any planning with a team that did not have enough time to setup processes and establish a fluent bug free culture. I was coding, mentoring developers, designing architecture, planning features and then releasing it all the time. It all boiled down to me and I was constantly putting more and more effort in. I forgot to relax and have time off. Totally did not balance and set my family aside for a while thinking it will be worth it in the long run. Looking back, while there is a ton I have learned and have up-skilled considerably, it was so not worth it. </p>
+<p>3. Know the risk.</p>
+<p>I think I knew there was a chance this might happen but I still took the risk. The idea of having something of my own still thrills me to this day. It is only a matter of time until I re-energise and do it all over again. All said and done, I think knowing the risk is one thing and planning for it is another. Thankfully, I also had a plan and I had put some money aside in-case things went south, which it did. </p>
+<p> </p>
+<p>Lastly, here's what I have on my wall in front of me right now.<figure class="post__image"><img loading="lazy"  src="https://alokdhari.com/media/posts/12/20210511_234511.jpg" sizes="(min-width: 61.3125em) 50vw, 100vw" srcset="https://alokdhari.com/media/posts/12/responsive/20210511_234511-xs.jpg 300w ,https://alokdhari.com/media/posts/12/responsive/20210511_234511-sm.jpg 480w ,https://alokdhari.com/media/posts/12/responsive/20210511_234511-md.jpg 768w"  alt="" width="2257" height="1068"></figure>
+<p>Feature Photo by <a href="https://unsplash.com/@helloimnik?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Hello I'm Nik</a> on <a href="https://unsplash.com/s/photos/seedling?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Building docker image for a REACT App</title>
         <author>
