@@ -3,7 +3,7 @@
     <title>alokdhari.com</title>
     <link href="https://alokdhari.com/feed.xml" rel="self" />
     <link href="https://alokdhari.com" />
-    <updated>2021-05-11T23:52:59+01:00</updated>
+    <updated>2021-05-11T23:54:12+01:00</updated>
     <author>
         <name>Alok Singh</name>
     </author>
@@ -16,8 +16,9 @@
         </author>
         <link href="https://alokdhari.com/my-first-start-up-experience/index.html"/>
         <id>https://alokdhari.com/my-first-start-up-experience/index.html</id>
+            <category term="Startup Lessons"/>
 
-        <updated>2021-05-11T23:52:59+01:00</updated>
+        <updated>2021-05-11T23:54:12+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://alokdhari.com/media/posts/12/hello-i-m-nik-AsRAyHIkOHk-unsplash.jpg" alt="" />

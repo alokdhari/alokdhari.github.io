@@ -21,9 +21,10 @@
                 "name": "Alok Singh"
             },
             "tags": [
+                   "Startup Lessons"
             ],
             "date_published": "2021-05-11T23:15:00+01:00",
-            "date_modified": "2021-05-11T23:52:59+01:00"
+            "date_modified": "2021-05-11T23:54:12+01:00"
         },
         {
             "id": "https://alokdhari.com/building-docker-image-for-react-application/index.html",
