@@ -3,7 +3,7 @@
     <title>alokdhari.com</title>
     <link href="https://alokdhari.com/feed.xml" rel="self" />
     <link href="https://alokdhari.com" />
-    <updated>2021-06-02T17:46:32+01:00</updated>
+    <updated>2021-06-02T17:47:34+01:00</updated>
     <author>
         <name>Alok Singh</name>
     </author>
@@ -16,8 +16,10 @@
         </author>
         <link href="https://alokdhari.com/i-was-jobless-for-a-month-and-i-didnt-know/index.html"/>
         <id>https://alokdhari.com/i-was-jobless-for-a-month-and-i-didnt-know/index.html</id>
+            <category term="Startup Lessons"/>
+            <category term="Life"/>
 
-        <updated>2021-06-02T17:46:32+01:00</updated>
+        <updated>2021-06-02T17:47:34+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://alokdhari.com/media/posts/13/daniel-pascoa-PMVBRYY9F3s-unsplash.jpg" alt="Surprised" />
