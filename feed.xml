@@ -3,14 +3,14 @@
     <title>alokdhari.com</title>
     <link href="https://alokdhari.com/feed.xml" rel="self" />
     <link href="https://alokdhari.com" />
-    <updated>2022-04-25T23:27:39+01:00</updated>
+    <updated>2022-04-26T09:26:47+01:00</updated>
     <author>
         <name>Alok Singh</name>
     </author>
     <id>https://alokdhari.com</id>
 
     <entry>
-        <title>Lessons learned from hiring developers in India</title>
+        <title>Lessons learned from building an IT team in India</title>
         <author>
             <name>Alok Singh</name>
         </author>
@@ -18,17 +18,19 @@
         <id>https://alokdhari.com/lessons-learned-from-hiring-developers-in-india/index.html</id>
             <category term="Technology"/>
 
-        <updated>2022-04-25T23:17:40+01:00</updated>
+        <updated>2022-04-26T09:26:47+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://alokdhari.com/media/posts/8/timon-studler-obZx1LjKKjc-unsplash.jpg" alt="" />
-                    Let's go back to my experience of the startup! :) You'll know which one I am talking about :D The first task I had as&hellip;
+                    Let's go back to my experience of the startup! :) You'll know which one I am talking about :D Get in touch if you are&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <img src="https://alokdhari.com/media/posts/8/timon-studler-obZx1LjKKjc-unsplash.jpg" alt="" />
                 <p>Let's go back to my experience of the startup! :) You'll know which one I am talking about :D</p>
+<hr>
+<p class="align-center">Get in touch if you are thinking about creating a off shore Indian team and I will be happy to lead a hand. <a href="https://www.linkedin.com/in/alokdharisingh/" title="Contact me on LinkedIn" target="_blank" rel="noopener noreferrer">LinkedIn</a></p>
 <hr>
 <p>The first task I had as a CTO was to build a dev team to deliver on the first version of the product. This is usually a case with startups that have secured a seed fund purely based on the idea/product that they have proposed to develop. I am not going into the reason why I had to hire the dev team in India but talk more about my experience of doing so, my success and failings and, lastly, if it was worth it.</p>
 <h5>Fun Fact: Hiring software developers is hard, very hard actually</h5>
@@ -51,7 +53,9 @@
 <p>The devs I hired were in the same bucket and were almost always willing to go the extra mile, which a startup needs more that anything. As a manager you have to make sure they have enough on their plate to do and clean up at the same time. </p>
 <h5>The on-boarding time </h5>
 <p>Spend a lot of time writing on-boarding documentation and making sure the process is clear as day. This begins at the HR stage and ends with the devs manager. Make sure there is a process for 121 in place.</p>
-<p> </p>
+<h4>Summary</h4>
+<p>One hard lesson I learned is it is not way way cheaper to have an offshore team. The factor I would say is that it is around 2/3rd the cost. If a senior dev in London can expect £50K then a dev in India with the same calibre would expect about ~£20k depending on where they are based and extras. The problem however is the fact that a lot of Indian devs earning £50K end up being managers and forgetting how to code/architect. So you will really have to ensure the devs you are hiring are actually good coders.</p>
+<p>Considering everything, I would most definitely recommend exploring the possibility. I think there is a definitive value in building an off shore team. Most definitely if you are willing to learn yourself and stay patient, and save a ton of money in the long run. The people are kind, conscious and very humble to say the least. The amount of love, honestly and hard work show by my team was something I still miss the most.</p>
             ]]>
         </content>
     </entry>
