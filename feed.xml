@@ -3,7 +3,7 @@
     <title>alokdhari.com</title>
     <link href="https://alokdhari.com/feed.xml" rel="self" />
     <link href="https://alokdhari.com" />
-    <updated>2024-01-26T21:23:42+00:00</updated>
+    <updated>2024-01-26T22:09:31+00:00</updated>
     <author>
         <name>Alok Singh</name>
     </author>
@@ -16,8 +16,10 @@
         </author>
         <link href="https://alokdhari.com/the-impact-of-artificial-intelligence-on-everyday-life/index.html"/>
         <id>https://alokdhari.com/the-impact-of-artificial-intelligence-on-everyday-life/index.html</id>
+            <category term="Technology"/>
+            <category term="Life"/>
 
-        <updated>2024-01-26T21:23:42+00:00</updated>
+        <updated>2024-01-26T22:09:31+00:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://alokdhari.com/media/posts/21/paul-skorupskas-7KLa-xLbSXA-unsplash.jpg" alt="" />
@@ -36,7 +38,7 @@
 <p>Sometimes I see microbes on my eyes if I focus hard enough to notice!</p>
 </blockquote>
 <p>How often should I write and what about?</p>
-<p>Though it would be a good idea to use AI for what it is best for. <br>Deriving meaning to senseless data and sometimes, vice-versa! :D</p>
+<p>Thought it would be a good idea to use AI for what it is best for. <br>Deriving meaning to senseless data and sometimes, vice-versa! :D</p>
 <p>Here's my little interaction with ChatGPT</p>
 <figure class="post__image"><img loading="lazy"  src="https://alokdhari.com/media/posts/21//GPT1.PNG" sizes="(min-width: 61.3125em) 50vw, 100vw" srcset="https://alokdhari.com/media/posts/21//responsive/GPT1-xs.PNG 300w ,https://alokdhari.com/media/posts/21//responsive/GPT1-sm.PNG 480w ,https://alokdhari.com/media/posts/21//responsive/GPT1-md.PNG 768w"  alt="" width="652" height="732"></figure>
 <p>And on and on and on it went...</p>
