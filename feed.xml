@@ -3,14 +3,82 @@
     <title>alokdhari.com</title>
     <link href="https://alokdhari.com/feed.xml" rel="self" />
     <link href="https://alokdhari.com" />
-    <updated>2024-02-04T23:04:07+00:00</updated>
+    <updated>2024-02-11T22:20:02+00:00</updated>
     <author>
         <name>Alok Singh</name>
     </author>
     <id>https://alokdhari.com</id>
 
     <entry>
-        <title> Insights into IT Contracting: Navigating Rates, IR-35, and Career Decisions</title>
+        <title>More insights into IT Contracting: Recruiters, Interviews and the WORK itself!</title>
+        <author>
+            <name>Alok Singh</name>
+        </author>
+        <link href="https://alokdhari.com/more-insights-into-it-contracting-recuiters-interviews-and/"/>
+        <id>https://alokdhari.com/more-insights-into-it-contracting-recuiters-interviews-and/</id>
+            <category term="Career"/>
+
+        <updated>2024-02-11T22:19:47+00:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://alokdhari.com/media/posts/23/michael-shannon-mE6zS5LwScM-unsplash.jpg" alt="" />
+                    As promised, here's the second part of the contracting story. Here's the first part if you didn't get a chance to read it: I have&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://alokdhari.com/media/posts/23/michael-shannon-mE6zS5LwScM-unsplash.jpg" alt="" />
+                <p>As promised, here's the second part of the contracting story. </p>
+<p>Here's the first part if you didn't get a chance to read it:</p>
+<h3 class="align-center"><a href="https://alokdhari.com/what-does-it-contracting-feel-like/" title="Navigating Rates, IR-35, and Career Decisions" target="_blank" rel="noopener noreferrer">Insights into IT Contracting</a></h3>
+<hr>
+<pre>I have been a contractor since November, 2022 and have not really felt a massive shift in the way I approach my day to day work.</pre>
+<p>We are going to talk about the following topics</p>
+<ol>
+<li>Recruiters and notice Period </li>
+<li>Preparation</li>
+<li>Accepting the contract</li>
+<li>What matters the most?! Work itself!</li>
+</ol>
+<h3>Recruiters and notice period!</h3>
+<p>If I am being honest, I was way too over-whelmed by the out pour of recruiters calling me and me being nice to them. After changing my status on Linked In and a few other job portals, I only hoped for a mild response. The calls sort of picked and then went silent. </p>
+<p>Following is a typical conversation I had in early stages:</p>
+<pre>Rec: Hello, how is it going? I am a specialist recruiter for blah and have an excellent job which you would be perfect for!<br>Nice me: Brilliant. I am very well, thank you! How about yourself?<br>Rec: I am great, ta! I see you are in the market for roles?<br>Nice me: Oh! I indeed am!<br>Rec: So, why are you thinking of leaving "Your previous company"?<br>Me: No particular reason really. Just really want to try out contracting. <br>Rec: Are you permanent right now?<br>Me: Yes<br>Rec: What is your notice period?<br>Me: 1 month<br>Rec: Wow, my client wants someone tomorrow! What is your current salary BTW?<br>Me: It is £90K+bonus<br>Rec: Cool! So you would be happy with a day rate of £450 right?<br>Me: I was hoping for something around £500<br>Rec: Is that inside or outside?<br>Me: Outside<br>Rec: Mate, this is your first time contracting. You will be lucky to get £450 outside!<br>Me: Shall we have a look at the role<br>Rec: Sure, I will send you the role on an email in 5 minutes</pre>
+<blockquote>
+<p class="align-center"><strong>Which seldom happens!</strong></p>
+</blockquote>
+<p><br>After I opened the flood gates, I got about 25 calls from such recruiters and only 1 materialised in an actual interview. Rest 24 were pretty much information gathering on the role I am leaving. There was also a trend of talking about random stuff which felt a colossal</p>
+<p>This was me after a week of being tossed around by recruiters:</p>
+<pre>Rec: Hello, how is it going? I am a specialist recruiter for blah and have an excellent job which you would be perfect for!<br>Nice me: Brilliant. How much does it pay?<br>Rec: They are happy to pay the right rates for the right candidate<br>Nice me: My minimum is £500pd outside and £700pd inside. Can you tell me who they are?<br>Rec: Sure. I see you are a perm employee right now. How long have you been looking for contracts?<br>Me: Mate, I would love to chit chat and talk everything about my current job once you get me that contract until then shall we stick to business please. Pop me the job description and what you need off me into my mail box.<br>Rec: Sure!</pre>
+<p>At this point, you have eliminated day dreaming recruiters who don't have an actual contract for you. But the one's who have a contract will take you way more seriously! <br><br>Which is exactly what happened with me after a couple of weeks. As soon as I changed my tone, I saw a shift in how I was perceived which led to interviews and then a contract that ticked all my boxes.</p>
+<p>Bottom line is, recruiters are your dearest friends who have only their own best interest at heart. You as a candidate have to ensure their and your interests align as soon as possible! 😃</p>
+<h3>Preparation</h3>
+<p>I am not going to delve into how to prepare for an interview but more into how I found interviewing for contracting roles different.</p>
+<p>For starters, I had 4 interviews and was only offered one position. I will be candid on how I failed on the other interviews and how it worked out. </p>
+<p>One of my colleagues, Simon, explains a very critical point using a very simple scenario. You have 2 sets of customer service offerings, Bronze and Gold. Gold being the expensive one, obviously 🤔 He said, it is the bronze customers who want the most and you end up working harder to keep them as well, while the gold customers have fewer queries and rarely exercise their services. </p>
+<p>Same goes for interview, if your interviewer is asking you way too in-depth questions testing your memory then you will likely struggle with your common sense. People who see your worth are likely to gauge your aptitude to problem solving. In my personal experience engineers who can solve problems and can get along alright are priceless. </p>
+<p>In one of the roles, the interviewer literally had a list of 25 super technical questions which I was being scored on. Some of these technical questions were truly pointless in comparison to the role. Questions where I'm being asked about un-managed code in C# where the role itself is for Web API developer. In another interview I was asked how would I architect something when clearly the job was only paying £400 a day. It's all well to answer questions however one has to remember that the questions being asked reflect the job that you will do. I think it's very important to ensure that you sign up for a contract that you think you will excel at.</p>
+<p>One thing to remember is never to discuss your rate with the interviewer. This is because quite often they don't remember how much they agreed with the recruiter and it may put off the interview or sour the conversation.</p>
+<p>In one of the interviews there were three rounds and I passed 2 of them. In the final round, the interview was as vague as it gets and I didn't get any solid reason on why I didn't get the role. This is something I like in point out, in permanent interviewing positions a lot of times people don't get any response however in contacting world it's almost always. You can't expect to get a feedback on how you did in the interview purely because it's a fast pace environment. A lot of times companies look for contractors to fill in positions quickly. So being ready for an interview is a great idea!</p>
+<h3>Accepting the contract</h3>
+<p>I was oblivious to the fact that a contract actually means a piece of paper. You have to read that contract and ensure every single word written there does not contradict with you understanding of what you're signing up for. I read my contract three times with a highlighter. Thankfully there was nothing in my contract that jumped out. However, it was only after signing in agreeing to the contract and giving giving my notice that I found a few floors in it. Now this was my first contract and have likelihood was I wasn't going to be paid for a month. So that got me rather worried! That said, things worked out in the end with my employer and I was inside IR35, which helped to a degree. </p>
+<p>Another thing that you need to look for is who your payment processor will be if you are inside IR35. So essentially, your employer pays the recruiter, your recruiter pays your payment processor and your payment processor pays you. Bottom line is, as long as you're getting what you want monthly you should not care who keeps what. On paper your payment processor will be your employer and your employment contract is with them. I know it is tricky to understand but believe me this is the easy way round.</p>
+<p>You also would like to check your frequency of payment. It can either be weekly or monthly. I have chosen weekly but I know a few of my colleagues who want to get paid monthly to keep the cash flow in check.</p>
+<h2>Work itself</h2>
+<p>I think I will boil this down to two things:</p>
+<ol>
+<li>Are you happy with how much money you're getting?</li>
+<li>Is the work the correct amount of challenge?</li>
+</ol>
+<p>In my opinion, if these two points are addressed then one has achieved a lot of things that a job should provide. Everything else is really secondary!</p>
+<p>In terms of what I have found, people don't change and the people you work with don't change either. As a contractor, you have to bring the best out of yourself and that for me was just amazing. I have faced some really strong challenges in the past few years and also have learned an incredible amount of stuff. I find contacting no different to a permanent job apart from the fact that I'm getting paid almost time and 1/2.</p>
+<p>I would strongly recommend everyone to try out contracting at least once in their careers. You will realise that the best wash version of you comes out shining when you are really under pressure.</p>
+<p>Go contractors! 🤑</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Insights into IT Contracting: Navigating Rates, IR-35, and Career Decisions</title>
         <author>
             <name>Alok Singh</name>
         </author>
@@ -19,7 +87,7 @@
             <category term="Technology"/>
             <category term="Career"/>
 
-        <updated>2024-02-04T23:04:07+00:00</updated>
+        <updated>2024-02-11T22:20:02+00:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://alokdhari.com/media/posts/22/micheile-henderson-ZVprbBmT8QA-unsplash.jpg" alt="" />
@@ -405,39 +473,6 @@
 <p>I am now very very comfortable with my sleeping pattern and wake up really fresh with a lot of enthusiasm and hope for the day regardless of how my previous day was. </p>
 <p>In the next part I will discuss WHY to become a morning person and what positive and negative changes I have observed.</p>
 <p>Good luck with your experiments. :)</p>
-<p> </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Seeds and opportunities</title>
-        <author>
-            <name>Alok Singh</name>
-        </author>
-        <link href="https://alokdhari.com/seeds-and-opportunities/"/>
-        <id>https://alokdhari.com/seeds-and-opportunities/</id>
-            <category term="Life"/>
-
-        <updated>2020-10-31T00:46:17+00:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://alokdhari.com/media/posts/5/jill-heyer-03ztkGdYWU8-unsplash.jpg" alt="" />
-                    <p>There are only very few times in life when one can see the vivid change of direction one's life is making. When one picks up the book on gardening and decides to grow their own veggies or when one signs up to that swimming class for they finally not scared of learning how to not drown. </p>
-<p>Today is one of those days for me!</p>
-
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://alokdhari.com/media/posts/5/jill-heyer-03ztkGdYWU8-unsplash.jpg" alt="" />
-                <p>There are only very few times in life when one can see the vivid change of direction one's life is making. When one picks up the book on gardening and decides to grow their own veggies or when one signs up to that swimming class for they finally not scared of learning how to not drown. </p>
-<p>Today is one of those days for me!</p>
-
-<p>I have resigned from my permanent job at Capital On Tap. Brave, foolish, ambitious or stupid, only time will tell. What I can tell you is this has been something that's been cooking for a while. When I came to the UK, I was taken back by how much there was to learn and how much everyone had to teach. At all points since then I have had people I could look up to and people who were there for me. While I had help but that help was never material, always emotional. That, along with a good dose of optimism has given me the strength to start something of my own. A place which I can call home and a work where I do what I feel is right. </p>
-<p>So, here I am! I am going to be a part of a team who will create and launch an eCommerce platform that will be driven by simplicity and will command a lot of social return. One where the tech and team will be inclusive and genuine. </p>
-<p>We have also managed to find a great name for it: <strong>Kuber Digital</strong></p>
-<p>While the world is in its whirlwind, we have decided to brave the tides and start a sustainable business which gives something back to the society. </p>
-<p>Ride along with me on this amazing adventure of mine.</p>
 <p> </p>
             ]]>
         </content>
